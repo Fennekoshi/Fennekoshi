@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Microsoft Sentinel (SIEM) VM Honeypot](https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/%2Fsubscriptions%2F19cad24b-367d-43fd-8474-8599e701fe4b%2Fresourcegroups%2Fhoneypotlabs_group%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-hihoney/ConfigurationId/%2Fsubscriptions%2F19cad24b-367d-43fd-8474-8599e701fe4b%2Fresourcegroups%2Fhoneypotlabs_group%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2F69dcb381-ff75-417e-a2ea-9e4c8b052d06/Type/sentinel/WorkbookTemplateName/failed%20RDP%20World%20Map)
+Powershell
+- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/%2Fsubscriptions%2F19cad24b-367d-43fd-8474-8599e701fe4b%2Fresourcegroups%2Fhoneypotlabs_group%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-hihoney/ConfigurationId/%2Fsubscriptions%2F19cad24b-367d-43fd-8474-8599e701fe4b%2Fresourcegroups%2Fhoneypotlabs_group%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2F69dcb381-ff75-417e-a2ea-9e4c8b052d06/Type/sentinel/WorkbookTemplateName/failed%20RDP%20World%20Map)
 
 <h2>📄 Certifications </h2>
 
