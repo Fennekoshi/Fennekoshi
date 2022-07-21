@@ -7,6 +7,7 @@
 <h2>📄 Certifications </h2>
 
 - [Gooogle IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/URPDEHQBY82B)
+- CompTIA Security + (In progress)
 
 <h2> 🤳 Connect with me:</h2>
 
