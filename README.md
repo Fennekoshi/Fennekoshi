@@ -1,5 +1,5 @@
 <h1>Hi, I'm Oscar! 
-
+I am currently making the transition from the Marketing Industry and recent graduate into the Cybersecurity field with a focus in CySA+. 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 Powershell
