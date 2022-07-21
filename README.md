@@ -1,5 +1,5 @@
 <h1>Hi, I'm Oscar! 
-I am currently gaining epxerince for the Cybersecurity field with a focus in CySA+. 
+I'm currently making the transition into the Cybersecurity field with a focus in CySA+ !
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 Powershell
