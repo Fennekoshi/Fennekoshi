@@ -4,6 +4,10 @@ I'm currently making the transition into the Cybersecurity field with a focus in
 
 Powershell
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Fennekoshi/Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
+- Home Lab Running Active Directory
+
+Nessus
+- Vulnerability Management
 
 <h2>📄 Certifications </h2>
 
